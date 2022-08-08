@@ -11,6 +11,7 @@
   - Animation;
   - Reading JSON type data;
   - Manipulation of data and variables;
+  - State Variables
   - Global Variables.
   
   <table>
