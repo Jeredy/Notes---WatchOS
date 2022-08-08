@@ -18,8 +18,8 @@
        <td colspan="3">Screenshots</td>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/38798492/183482483-32928985-924e-46ed-a192-6b4f9deb41a8.png" width="100" height="150"></td>
-      <td><img src="https://user-images.githubusercontent.com/38798492/183482624-abde51b1-9a1c-4b10-8f8a-641185203e88.png" width="100" height="150"></td>
+      <td><img src="https://user-images.githubusercontent.com/38798492/183482483-32928985-924e-46ed-a192-6b4f9deb41a8.png" width="150" height="150"></td>
+      <td><img src="https://user-images.githubusercontent.com/38798492/183482624-abde51b1-9a1c-4b10-8f8a-641185203e88.png" width="150" height="150"></td>
     </tr>
     <tr>
     <td><img src="https://user-images.githubusercontent.com/38798492/183482659-59356fea-113b-4a35-861e-5b65acc38240.png" width="300" height="600"></td>
